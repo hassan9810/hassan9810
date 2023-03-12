@@ -4,6 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan9810" alt="hassan9810" /></a> </p>
 <br>
+
 - 🔭 I’m currently working on **Angular Project**
 
 - 🌱 I’m currently learning **many new technologies at Information Technology Institute**
