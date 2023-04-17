@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Angular Project**
 
-- 🌱 I’m currently learning **many new technologies at Information Technology Institute**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
