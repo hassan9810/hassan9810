@@ -141,7 +141,7 @@
 
 ###
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hassan9810/hassan9810/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hassan9810/hassan9810/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
