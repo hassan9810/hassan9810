@@ -133,7 +133,8 @@
 ###
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+👋;" />
-</h3>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=31&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting!+👋" alt="Typing SVG" />
+  </a>
+</div>
