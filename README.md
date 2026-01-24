@@ -25,22 +25,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hassan9810/count.svg?"  />
-</div>
-
-###
-
   <hr>
   <h3 align="center">Connect with me</h3>
 <div align="left">
+  <a href="https://ahmed-hassan-portfolio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlecloud&label=ahmed-hassan-portfolio&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/hassan9810/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=hassan9810&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/hassan9810" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=hassan9810&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="ahmed.hassan.shehatah@gmail.com" target="_blank">
+  <a href="mailto:ahmed.hassan.shehatah@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=ahmed.hassan.shehatah@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="_hassan98" target="_blank">
