@@ -6,7 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Hassan!;" />
 </h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan9810&theme=dracula" alt="hassan9810" /></a> </p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=hassan9810&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2" alt="hassan9810" />
+</p>
 <br>
 <img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
@@ -18,7 +20,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hassan9810?tab=repositories](https://github.com/hassan9810?tab=repositories)
 
-- 📫 How to reach me **ahmed.hassan.shehatah@gmail.com** or **eng.hsn10@gmail.com**
+- 🌐 Check out my portfolio at [https://ahmed-hassan-portfolio.lovable.app](https://ahmed-hassan-portfolio.lovable.app)
+
+- 📫 How to reach me **ahmed.hassan.shehatah@gmail.com**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan9810&label=Profile%20views&color=0e75b6&style=flat" alt="hassan9810" /> </p>
@@ -33,12 +37,15 @@
   </a>
   <a href="https://www.linkedin.com/in/hassan9810/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=hassan9810&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+      <a href="https://medium.com/@hassan9810" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=@hassan9810&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="https://www.hackerrank.com/hassan9810" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=hassan9810&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="mailto:ahmed.hassan.shehatah@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=ahmed.hassan.shehatah@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+    <a href="https://www.hackerrank.com/hassan9810" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=hassan9810&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="_hassan98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=_hassan98&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -115,7 +122,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hassan9810&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan9810&theme=dracula&hide_border=false" height="220" alt="streak graph" />
 </div>
 
 <br/>
